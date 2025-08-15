@@ -1,4 +1,4 @@
-# Predição Vs Previsão
+# Predição Vs Previsão - Conceitos e Diferenças
 
 <h2 align="center">Predição</h2>
 A predição engloba a probabilidade de um resultado específico ocorrer, sem a necessidade de uma sequência temporal. Seu objetivo é buscar padrões estudando dados históricos 
